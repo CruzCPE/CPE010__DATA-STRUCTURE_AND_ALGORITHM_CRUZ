@@ -43,7 +43,7 @@
 - [PDF](./Midterm/PDF)
 - [CPP](./Midterm/CPP)
  
-### [FINALS](./Finals)
+### [FINALS]
 11. [Module 11: Basic Algorithm Analysis](./Finals)
 12. [Module 12: Algorithmic Strategies](./Finals)
 13. [Module 13: Parallel Algorithms and Multithreading](./Finals)
