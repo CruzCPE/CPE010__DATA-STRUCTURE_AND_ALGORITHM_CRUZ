@@ -25,9 +25,9 @@
  
 | Term | Topics | Folder |
 |------|--------|--------|
-| Prelim | [Topic list] | [Prelim](./Prelim) |
-| Midterm | [Topic list] | [Midterm](./Midterm) |
-| Finals | [Topic list] | [Finals](./Finals) |
+| Prelim | Module 1: Introduction to Data Structures and Algorithms<br>Module 2: Arrays, Pointers and Dynamic Memory Allocation<br>Module 3: Linked Lists<br>Module 4: Stacks<br>Module 5: Queues | [Prelim](./Prelim) |
+| Midterm | Module 6: Searching Techniques<br>Module 7: Sorting Algorithms Pt 1<br>Module 8: Sorting Algorithms Pt 2<br>Module 9: Trees<br>Module 10: Graphs | [Midterm](./Midterm) |
+| Finals | Module 11: Basic Algorithm Analysis<br>Module 12: Algorithmic Strategies<br>Module 13: Parallel Algorithms and Multithreading<br>Module 14: Algorithm Complexity | [Finals](./Finals) |
  
 ### Prelim
 - [Handouts](./Prelim/Handouts)
