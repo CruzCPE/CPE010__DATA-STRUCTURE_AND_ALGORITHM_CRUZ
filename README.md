@@ -29,7 +29,7 @@
 3. [Module 3: Linked Lists](./Prelim)
 4. [Module 4: Stacks](./Prelim)
 5. [Module 5: Queues](./Prelim)
-Folders: [Handouts](./Prelim/Handouts) | [PDF](./Prelim/PDF) | [CPP](./Prelim/CPP)
+<br> Folders: [Handouts](./Prelim/Handouts) | [PDF](./Prelim/PDF) | [CPP](./Prelim/CPP)
  
 ### [Midterm](./Midterm)
 6. [Module 6: Searching Techniques](./Midterm)
@@ -37,14 +37,14 @@ Folders: [Handouts](./Prelim/Handouts) | [PDF](./Prelim/PDF) | [CPP](./Prelim/CP
 8. [Module 8: Sorting Algorithms Pt 2](./Midterm)
 9. [Module 9: Trees](./Midterm)
 10. [Module 10: Graphs](./Midterm)
-Folders: [Handouts](./Midterm/Handouts) | [PDF](./Midterm/PDF) | [CPP](./Midterm/CPP)
+<br> Folders: [Handouts](./Midterm/Handouts) | [PDF](./Midterm/PDF) | [CPP](./Midterm/CPP)
  
 ### [Finals](./Finals)
 11. [Module 11: Basic Algorithm Analysis](./Finals)
 12. [Module 12: Algorithmic Strategies](./Finals)
 13. [Module 13: Parallel Algorithms and Multithreading](./Finals)
 14. [Module 14: Algorithm Complexity](./Finals)
-Folders: [Handouts](./Finals/Handouts) | [PDF](./Finals/PDF) | [CPP](./Finals/CPP)
+<br> Folders: [Handouts](./Finals/Handouts) | [PDF](./Finals/PDF) | [CPP](./Finals/CPP)
  
 ### Prelim
 - [Handouts](./Prelim/Handouts)
