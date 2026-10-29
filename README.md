@@ -1,8 +1,8 @@
-# CPE010__DATA-STRUCTURE_AND_ALGORITHM_CRUZ
+# CPE010 DATA-STRUCTURE AND ALGORITHM CRUZ
  
 **Academic Year:** A.Y. 2026-2027
  
-**Student Name:** [Your Full Name]
+**Student Name:** CRUZ, ELIJAH J.
  
 ---
  
@@ -11,11 +11,13 @@
 - [Objective 1]
 - [Objective 2]
 - [Objective 3]
+
 ## Course Intended Learning Outcomes (CILO)
  
 - **CILO 1:** [Description]
 - **CILO 2:** [Description]
 - **CILO 3:** [Description]
+
 ## Topics
  
 | Term | Topics | Folder |
