@@ -23,32 +23,32 @@
 
 ## Topics
  
-### [Prelim](./Prelim)
+### [PRELIMS]
 1. [Module 1: Introduction to Data Structures and Algorithms](./Prelim)
 2. [Module 2: Arrays, Pointers and Dynamic Memory Allocation](./Prelim)
 3. [Module 3: Linked Lists](./Prelim)
 4. [Module 4: Stacks](./Prelim)
 5. [Module 5: Queues](./Prelim)
-### Prelim
+### Files
 - [PDF](./Prelim/PDF)
 - [CPP](./Prelim/CPP)
  
-### [Midterm](./Midterm)
+### [MIDTERMS]
 6. [Module 6: Searching Techniques](./Midterm)
 7. [Module 7: Sorting Algorithms Pt 1](./Midterm)
 8. [Module 8: Sorting Algorithms Pt 2](./Midterm)
 9. [Module 9: Trees](./Midterm)
 10. [Module 10: Graphs](./Midterm)
-### Midterm
+### Files
 - [PDF](./Midterm/PDF)
 - [CPP](./Midterm/CPP)
  
-### [Finals](./Finals)
+### [FINALS](./Finals)
 11. [Module 11: Basic Algorithm Analysis](./Finals)
 12. [Module 12: Algorithmic Strategies](./Finals)
 13. [Module 13: Parallel Algorithms and Multithreading](./Finals)
 14. [Module 14: Algorithm Complexity](./Finals)
-### Finals
+### Files
 - [PDF](./Finals/PDF)
 - [CPP](./Finals/CPP)
  
