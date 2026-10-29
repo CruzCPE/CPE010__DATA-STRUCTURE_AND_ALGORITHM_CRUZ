@@ -3,20 +3,23 @@
 **Academic Year:** A.Y. 2026-2027
  
 **Student Name:** CRUZ, ELIJAH J.
+
+**Section:** CPE21S2 
  
 ---
  
 ## Objectives
  
-- [Objective 1]
-- [Objective 2]
-- [Objective 3]
+- Understand the fundamental concepts of data structures and algorithms and how they affect program efficiency. 
+- Implement linear data structures (arrays, linked lists, stacks, and queues) using C++ and non-linear data structures such as trees and graphs and apply their traversal methods.
+- Apply searching and sorting algorithms and compare them using time and space complexity.
 
 ## Course Intended Learning Outcomes (CILO)
  
-- **CILO 1:** [Description]
-- **CILO 2:** [Description]
-- **CILO 3:** [Description]
+- **CILO 1:** Explain the concepts, operations, and applications of common data structures and algorithms.
+- **CILO 2:** Implement data structures and algorithms in C++ to solve computing problems.
+- **CILO 3:** Analyze the time and space complexity of algorithms to evaluate their efficiency.
+- **CILO 4:** Design and develop a program that applies appropriate data structures and algorithms to a real-world problem.
 
 ## Topics
  
