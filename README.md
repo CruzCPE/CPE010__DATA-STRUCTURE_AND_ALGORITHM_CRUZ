@@ -29,6 +29,9 @@
 3. [Module 3: Linked Lists](./Prelim)
 4. [Module 4: Stacks](./Prelim)
 5. [Module 5: Queues](./Prelim)
+### Prelim
+- [PDF](./Prelim/PDF)
+- [CPP](./Prelim/CPP)
  
 ### [Midterm](./Midterm)
 6. [Module 6: Searching Techniques](./Midterm)
@@ -36,23 +39,16 @@
 8. [Module 8: Sorting Algorithms Pt 2](./Midterm)
 9. [Module 9: Trees](./Midterm)
 10. [Module 10: Graphs](./Midterm)
+### Midterm
+- [PDF](./Midterm/PDF)
+- [CPP](./Midterm/CPP)
  
 ### [Finals](./Finals)
 11. [Module 11: Basic Algorithm Analysis](./Finals)
 12. [Module 12: Algorithmic Strategies](./Finals)
 13. [Module 13: Parallel Algorithms and Multithreading](./Finals)
 14. [Module 14: Algorithm Complexity](./Finals)
- 
-### Prelim
-- [Handouts](./Prelim/Handouts)
-- [PDF](./Prelim/PDF)
-- [CPP](./Prelim/CPP)
-### Midterm
-- [Handouts](./Midterm/Handouts)
-- [PDF](./Midterm/PDF)
-- [CPP](./Midterm/CPP)
 ### Finals
-- [Handouts](./Finals/Handouts)
 - [PDF](./Finals/PDF)
 - [CPP](./Finals/CPP)
  
